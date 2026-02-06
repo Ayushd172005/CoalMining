@@ -1,1 +1,1 @@
-# CoalMining
+Hackathon Project ideas
